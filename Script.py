@@ -74,9 +74,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Don_Vijay>☢ 𝚁𝙾𝙻𝙴𝚇 ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Don_Vijay>☢ 𝑫𝒐𝒏 𝑲𝒊𝒏𝒈 𝑶𝒇 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/donvijays>☢Join my updates☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/donvijays>☢Join My Updates☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
