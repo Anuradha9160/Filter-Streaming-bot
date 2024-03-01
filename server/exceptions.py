@@ -1,7 +1,7 @@
 
     # Thank you for helping  this journey 
     # thanks Adarsh Goel for Server Routing
-    #thanks @Itz_me_444
+    #thanks @Don_Vijay
 
 class InvalidHash(Exception):
     message = "Invalid hash"
